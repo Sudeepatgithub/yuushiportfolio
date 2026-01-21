@@ -1,0 +1,1 @@
+wget -r -p -k -e robots=off --html-extension --convert-links --restrict-file-names=windows -U Mozilla https://yuushi.framer.website/
